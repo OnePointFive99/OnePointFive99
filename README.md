@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OnePointFive99
+- 👋 Hi, I’m @OnePointFive99，a Pokemon fan.
 - 👀 I’m interested in 🏀，🎮，anime.
 - 🌱 I’m currently learning ML，python，C++.
 - 💞️ I’m looking to collaborate on ...
