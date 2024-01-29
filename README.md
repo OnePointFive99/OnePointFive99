@@ -9,8 +9,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 42 Public Repositories 
@@ -70,7 +68,7 @@ Python                   6 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2024 18:37:33 UTC
+ Last Updated on 29/01/2024 18:35:52 UTC
 <!--END_SECTION:waka-->
 
   
