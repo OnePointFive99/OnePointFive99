@@ -59,8 +59,8 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+C++                      6 repos             ███████████████░░░░░░░░░░   60.00 % 
+Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
 ```
 
 
@@ -70,7 +70,7 @@ Python                   6 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2024 18:37:09 UTC
+ Last Updated on 15/02/2024 18:35:58 UTC
 <!--END_SECTION:waka-->
 
   
