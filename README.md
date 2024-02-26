@@ -1,15 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +42,16 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+UnityPractice            1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -70,7 +68,7 @@ Python                   4 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2024 18:35:25 UTC
+ Last Updated on 26/02/2024 18:35:29 UTC
 <!--END_SECTION:waka-->
 
   
