@@ -1,13 +1,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +44,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C#                       1 hr 22 mins        █████████████████████████   100.00 % 
+C++                      1 hr 59 mins        ███████████████░░░░░░░░░░   59.26 % 
+C#                       1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.74 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 22 mins        █████████████████████████   100.00 % 
+Visual Studio            3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EmotionRecognization     1 hr 22 mins        █████████████████████████   100.00 % 
+EmotionRecognization     1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.74 % 
+Test                     1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.84 % 
+Practice                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -68,7 +73,7 @@ Python                   4 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 18:37:19 UTC
+ Last Updated on 03/06/2024 18:39:32 UTC
 <!--END_SECTION:waka-->
 
   
