@@ -1,15 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,19 +42,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C++                      2 hrs 53 mins       █████████████████████████   100.00 % 
+C++                      2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 53 mins       █████████████████████████   99.97 % 
+Visual Studio            2 hrs 44 mins       █████████████████████████   99.97 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Test                     2 hrs 25 mins       █████████████████████░░░░   83.77 % 
-Practice                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Test                     2 hrs 6 mins        ███████████████████░░░░░░   76.63 % 
+Practice                 38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
 Algorithm_Training       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -73,7 +71,7 @@ Python                   4 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2024 18:39:14 UTC
+ Last Updated on 20/06/2024 18:38:28 UTC
 <!--END_SECTION:waka-->
 
   
