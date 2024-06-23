@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,19 +42,20 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C++                      2 hrs 44 mins       █████████████████████████   100.00 % 
+C++                      5 hrs 43 mins       █████████████████████████   99.75 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 44 mins       █████████████████████████   99.97 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Visual Studio            5 hrs 44 mins       █████████████████████████   99.99 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Test                     2 hrs 8 mins        ████████████████████░░░░░   78.15 % 
-Practice                 35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Algorithm_Training       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Test                     4 hrs 58 mins       ██████████████████████░░░   86.77 % 
+Practice                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Algorithm_Training       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -71,7 +72,7 @@ Python                   4 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2024 18:37:00 UTC
+ Last Updated on 23/06/2024 18:36:51 UTC
 <!--END_SECTION:waka-->
 
   
