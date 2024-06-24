@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,20 +42,20 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C++                      5 hrs 43 mins       █████████████████████████   99.75 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C++                      7 hrs 3 mins        █████████████████████████   99.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 44 mins       █████████████████████████   99.99 % 
+Visual Studio            7 hrs 4 mins        █████████████████████████   99.99 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Test                     4 hrs 58 mins       ██████████████████████░░░   86.77 % 
-Practice                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Test                     6 hrs 13 mins       ██████████████████████░░░   87.89 % 
+Practice                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 Algorithm_Training       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,7 +72,7 @@ Python                   4 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:36:51 UTC
+ Last Updated on 24/06/2024 18:38:44 UTC
 <!--END_SECTION:waka-->
 
   
