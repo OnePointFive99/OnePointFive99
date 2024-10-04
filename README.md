@@ -9,6 +9,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 23 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -42,17 +44,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████░░░░░░░░   66.28 % 
-JSON                     2 mins              ████████░░░░░░░░░░░░░░░░░   33.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-weijiwei                 6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -69,7 +70,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2024 18:44:13 UTC
+ Last Updated on 04/10/2024 18:43:42 UTC
 <!--END_SECTION:waka-->
 
   
