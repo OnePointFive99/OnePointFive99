@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,24 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      23 mins             ██████████████░░░░░░░░░░░   56.75 % 
+Python                   17 mins             ██████████░░░░░░░░░░░░░░░   40.30 % 
+C#                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            23 mins             ██████████████░░░░░░░░░░░   56.75 % 
+VS Code                  17 mins             ██████████░░░░░░░░░░░░░░░   40.30 % 
+Unknown Editor           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Test                     23 mins             ██████████████░░░░░░░░░░░   56.75 % 
+run                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+TimeP                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+SweetSugarExperiment     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             ███████████████░░░░░░░░░░   59.70 % 
+Linux                    17 mins             ██████████░░░░░░░░░░░░░░░   40.30 % 
 ```
 
 **I Mostly Code in C++** 
@@ -68,7 +76,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2024 18:44:45 UTC
+ Last Updated on 29/10/2024 18:44:45 UTC
 <!--END_SECTION:waka-->
 
   
