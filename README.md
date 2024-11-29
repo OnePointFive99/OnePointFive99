@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -9,7 +9,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 24 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,20 +44,20 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   1 hr 30 mins        █████████████████████░░░░   82.74 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python                   5 hrs 15 mins       ████████████████████████░   94.16 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-liuzengyu                1 hr 48 mins        █████████████████████████   99.50 % 
-zhangyan                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+liuzengyu                5 hrs 34 mins       █████████████████████████   99.84 % 
+zhangyan                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -74,7 +74,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2024 18:45:34 UTC
+ Last Updated on 29/11/2024 18:45:10 UTC
 <!--END_SECTION:waka-->
 
   
