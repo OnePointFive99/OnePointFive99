@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,17 +42,18 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.00 % 
+Python                   2 mins              █████████████████████░░░░   83.65 % 
+CSV                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TimeP                    5 mins              ██████████████████░░░░░░░   70.87 % 
-run                      2 mins              ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+TimeP                    2 mins              █████████████████████░░░░   83.65 % 
+run                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -69,7 +70,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2025 18:43:06 UTC
+ Last Updated on 04/01/2025 18:41:27 UTC
 <!--END_SECTION:waka-->
 
   
