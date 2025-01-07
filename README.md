@@ -1,15 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,18 +42,18 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████░░░░   83.65 % 
-CSV                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Python                   48 mins             ███████████████████████░░   91.90 % 
+CSV                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TimeP                    2 mins              █████████████████████░░░░   83.65 % 
-run                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+TimeP                    51 mins             █████████████████████████   99.03 % 
+run                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,7 +70,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2025 18:44:13 UTC
+ Last Updated on 07/01/2025 18:43:57 UTC
 <!--END_SECTION:waka-->
 
   
