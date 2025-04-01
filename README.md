@@ -1,13 +1,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,19 +44,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   47 mins             ████████████████████░░░░░   80.55 % 
-Text                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   26 mins             █████████████████░░░░░░░░   69.73 % 
+Text                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-3DR                      59 mins             █████████████████████████   100.00 % 
+3DR                      38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    59 mins             █████████████████████████   100.00 % 
+Linux                    38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -71,7 +73,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2025 18:47:01 UTC
+ Last Updated on 01/04/2025 18:46:57 UTC
 <!--END_SECTION:waka-->
 
   
