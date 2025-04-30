@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,21 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GLSL                     50 mins             █████████████████░░░░░░░░   66.95 % 
+HLSL                     24 mins             ████████░░░░░░░░░░░░░░░░░   32.97 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            50 mins             █████████████████░░░░░░░░   67.03 % 
+VS Code                  24 mins             ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+GetStartedWithShaders-mai50 mins             █████████████████░░░░░░░░   67.03 % 
+builtin_shaders-2021.3.5124 mins             ████████░░░░░░░░░░░░░░░░░   32.97 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -68,7 +73,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 18:46:47 UTC
+ Last Updated on 30/04/2025 18:47:51 UTC
 <!--END_SECTION:waka-->
 
   
