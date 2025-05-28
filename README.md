@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,18 +42,18 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C#                       1 hr 39 mins        ██████████████░░░░░░░░░░░   56.19 % 
-Other                    1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.84 % 
-GLSL                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+C#                       4 hrs 1 min         ███████████████░░░░░░░░░░   61.60 % 
+Other                    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+GLSL                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 57 mins       █████████████████████████   100.00 % 
+Visual Studio            6 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OITinUnityURP-master     2 hrs 57 mins       █████████████████████████   100.00 % 
+OITinUnityURP-master     6 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -70,7 +70,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 18:49:35 UTC
+ Last Updated on 28/05/2025 18:48:30 UTC
 <!--END_SECTION:waka-->
 
   
