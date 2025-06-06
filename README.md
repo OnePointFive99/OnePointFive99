@@ -1,13 +1,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,19 +40,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    41 mins             ███████████░░░░░░░░░░░░░░   42.95 % 
-GLSL                     34 mins             █████████░░░░░░░░░░░░░░░░   36.61 % 
-C#                       19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+C#                       2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
+Other                    2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.45 % 
+GLSL                     2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 35 mins        █████████████████████████   100.00 % 
+Visual Studio            7 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OITinUnityURP-master (1) 1 hr                ████████████████░░░░░░░░░   63.55 % 
-OITinUnityURP-master     34 mins             █████████░░░░░░░░░░░░░░░░   36.45 % 
+OITinUnityURP-master (1) 6 hrs 56 mins       ███████████████████████░░   92.29 % 
+OITinUnityURP-master     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -71,7 +69,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2025 18:54:10 UTC
+ Last Updated on 06/06/2025 18:49:37 UTC
 <!--END_SECTION:waka-->
 
   
