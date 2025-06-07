@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -9,7 +9,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -40,19 +40,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C#                       2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
-Other                    2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.45 % 
-GLSL                     2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+GLSL                     4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
+C#                       3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
+Other                    2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 31 mins       █████████████████████████   100.00 % 
+Visual Studio            10 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OITinUnityURP-master (1) 6 hrs 56 mins       ███████████████████████░░   92.29 % 
-OITinUnityURP-master     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+OITinUnityURP-master (1) 9 hrs 34 mins       ██████████████████████░░░   89.40 % 
+OITinUnityURP-master     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 
 💻 Operating System: 
-Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -69,7 +69,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2025 18:49:37 UTC
+ Last Updated on 07/06/2025 18:46:27 UTC
 <!--END_SECTION:waka-->
 
   
