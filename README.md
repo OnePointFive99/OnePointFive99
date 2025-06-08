@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,19 +40,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-GLSL                     4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
-C#                       3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
-Other                    2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+GLSL                     4 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.53 % 
+C#                       4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
+Other                    2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 42 mins      █████████████████████████   100.00 % 
+Visual Studio            12 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OITinUnityURP-master (1) 9 hrs 34 mins       ██████████████████████░░░   89.40 % 
-OITinUnityURP-master     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+OITinUnityURP-master (1) 9 hrs 34 mins       ███████████████████░░░░░░   75.51 % 
+OITinUnityURP-master     3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
 
 💻 Operating System: 
-Windows                  10 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -69,7 +69,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2025 18:46:27 UTC
+ Last Updated on 08/06/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
 
   
