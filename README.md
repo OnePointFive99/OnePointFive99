@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,16 +40,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C#                       2 hrs 47 mins       █████████████████████████   100.00 % 
+C#                       4 hrs 17 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 47 mins       █████████████████████████   100.00 % 
+Visual Studio            4 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HotpotBattlefield        2 hrs 47 mins       █████████████████████████   100.00 % 
+HotpotBattlefield        4 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -66,7 +66,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 18:45:10 UTC
+ Last Updated on 24/08/2025 18:46:05 UTC
 <!--END_SECTION:waka-->
 
   
