@@ -1,11 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnePointFive99&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2038%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +42,22 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-C#                       6 hrs 7 mins        █████████████████████████   100.00 % 
+C#                       5 hrs 8 mins        █████████████████░░░░░░░░   68.49 % 
+Python                   2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Visual Studio            6 hrs 7 mins        █████████████████████████   100.00 % 
+Visual Studio            5 hrs 8 mins        █████████████████░░░░░░░░   68.49 % 
+VS Code                  2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
 
 🐱‍💻 Projects: 
-HotpotBattlefield        6 hrs 7 mins        █████████████████████████   100.00 % 
+HotpotBattlefield        5 hrs 8 mins        █████████████████░░░░░░░░   68.49 % 
+轮换英雄3_63868              2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+kaiwu_re_public          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -66,7 +74,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 18:46:09 UTC
+ Last Updated on 28/08/2025 18:48:31 UTC
 <!--END_SECTION:waka-->
 
   
