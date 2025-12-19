@@ -42,16 +42,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-博士                       10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -68,7 +68,7 @@ Python                   3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OnePointFive99/OnePointFive99/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 18:54:32 UTC
+ Last Updated on 19/12/2025 18:52:20 UTC
 <!--END_SECTION:waka-->
 
   
